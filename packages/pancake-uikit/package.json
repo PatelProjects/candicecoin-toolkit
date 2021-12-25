@@ -1,6 +1,6 @@
 {
   "name": "@candicecoin/uikit",
-  "version": "0.62.3",
+  "version": "0.63.0",
   "description": "Set of UI components for pancake projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
