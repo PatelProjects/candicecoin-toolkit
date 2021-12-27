@@ -137,7 +137,7 @@ const Menu: React.FC<NavProps> = ({
               <Box mr="12px">
                 <CakePrice cakePriceUsd={cakePriceUsd} />
               </Box>
-            )}
+            )} */}
             <Box mt="4px">
               <LangSelector
                 currentLang={currentLang}
@@ -147,7 +147,7 @@ const Menu: React.FC<NavProps> = ({
                 color="textSubtle"
                 hideLanguage
               />
-            </Box> */}
+            </Box>
             {globalMenu} {userMenu}
           </Flex>
         </StyledNav>
